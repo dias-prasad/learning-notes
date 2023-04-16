@@ -7,3 +7,4 @@ type: Journal
 https://github.com/git-for-windows/git/discussions/3251
 
 Not obvious
+Now it's clear
